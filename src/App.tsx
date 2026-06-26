@@ -563,7 +563,7 @@ export default function App() {
               {/* AI Generated Gqeberha coastline Hero Image banner */}
               <div className="relative w-full h-44 sm:h-52 bg-neutral-100 border-4 border-black overflow-hidden shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]" id="hero-coastline-banner">
                 <img 
-                  src="/src/assets/images/gqeberha_coastline.jpg" 
+                  src={coastlineBanner} 
                   alt="Coastline, Nelson Mandela Bay" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
