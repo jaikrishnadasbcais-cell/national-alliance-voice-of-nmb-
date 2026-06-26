@@ -1,0 +1,6 @@
+{
+  "name": "National Alliance - Voice of NMB",
+  "description": "The official platform for the National Alliance in Nelson Mandela Bay (Gqeberha), providing community action reporting, ward updates, and local governance advocacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
